@@ -13,7 +13,6 @@ public class LoginActivity extends AppCompatActivity {
     private String correoR,contraseñaR, correo, contraseña;
     private EditText ecorreo, econtraseña;
     int duration = Toast.LENGTH_SHORT;
-//hola
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
